@@ -1,0 +1,9 @@
+[package]
+name = "aether-math"
+version.workspace = true
+edition.workspace = true
+license.workspace = true
+description = "Core mathematical primitives for the AETHER engine"
+
+[lib]
+path = "src/lib.rs"
